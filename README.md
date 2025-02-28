@@ -43,7 +43,7 @@ This project is an **Online Bus Ticket Reservation System** built using **PHP**,
 2. **Clone the Repository**:  
    - Clone this project or download the ZIP and extract it to the `htdocs` directory inside your XAMPP installation folder:  
      ```bash  
-     git clone https://github.com/Subramanian7986/online-bus-ticket-reservation.git  
+     git clone https://github.com/Mutyalu1-chintakayala/online-bus-ticket-reservation.git  
      cd online-bus-ticket-reservation  
      ```  
 
